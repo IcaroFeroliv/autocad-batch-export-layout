@@ -53,7 +53,3 @@ O `EXPORTLAYOUT` não possui API gerenciada, então é chamado via `Editor.Comma
 ## Aviso
 
 Use por sua conta e risco. Teste primeiro com uma cópia de poucos arquivos antes de rodar em um lote grande.
-
-## Licença
-
-Defina a licença de sua preferência (por exemplo, MIT).
